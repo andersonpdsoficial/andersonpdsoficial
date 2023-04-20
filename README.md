@@ -17,7 +17,10 @@
 <p align="center">
   <ul>
     <li>Crud Cadastro De Produtos E Usuários em Vue.Js</li>
-    <li>Projeto Cadastro Em de Usuário</li>
+    <li>projeto_galeria_com_javascript-html-css_bootstrap</li>
+    <li>treinamento-crud-vue.js</li>
+    <li>projeto_To-Do_List_com_javascript_puro</li>
+    
   </ul>
 </p>
 
