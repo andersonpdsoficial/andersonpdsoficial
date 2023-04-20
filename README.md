@@ -1,5 +1,5 @@
 <h2 align="center"> Anderson Pereira da Silva </h2>
-<h3 align="center">Programador Web - Front-End</h3>
+<h3 align="center">Programador Web - Front-End E Back-End</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anderson-pereira-da-silva-420b84169" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
