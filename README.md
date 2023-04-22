@@ -16,6 +16,7 @@
 <h3 align="center">Projetos</h3>
 <p align="center">
   <ul>
+    <li>Game Simples Super Mario em JavaScript, HTML e CSS</li>
     <li>Crud Cadastro De Produtos E Usuários em Vue.Js</li>
     <li>projeto_galeria_com_javascript-html-css_bootstrap</li>
     <li>treinamento-crud-vue.js</li>
