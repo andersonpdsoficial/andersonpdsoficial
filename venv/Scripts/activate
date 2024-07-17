@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\ander\PROJETOBACKEND\venv"
+=======
+VIRTUAL_ENV="C:\Users\ander\backend\venv"
+>>>>>>> 35f3e9a302b477b5e5dae3d40b5281db7e3edd7e
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
